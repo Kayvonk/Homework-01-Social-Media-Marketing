@@ -1,2 +1,1 @@
-# Homework-01
-Homework-01-HTML-Git-CSS
+This project was intended to improve the accessibility of the given website. For all images, alt attributes were added. The semantics for the html content was adjusted to provide logical sectioning. The navigation bar was fixed to correctly direct users to the linked section. 
